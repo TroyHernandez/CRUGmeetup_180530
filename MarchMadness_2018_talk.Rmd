@@ -32,29 +32,29 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## rstats on reddit {.flexbox .vcenter .smaller}
 
-<img src="images/rstats1.png" style="width: 1000px;"/>
+<img src="images/rstats1.PNG" style="width: 1000px;"/>
 
 ## rstats on reddit {.flexbox .vcenter .smaller}
 
-<img src="images/rstats2.png" style="width: 800px;"/>
+<img src="images/rstats2.PNG" style="width: 800px;"/>
 
 ## FiveThirtyEight 2017 {.flexbox .vcenter .smaller}
 
 https://projects.fivethirtyeight.com/2017-march-madness-predictions/
 
-<img src="images/MarchMadness538_2017.png" style="width: 500px;"/>
+<img src="images/MarchMadness538_2017.PNG" style="width: 500px;"/>
 
 ## FiveThirtyEight 2018 {.flexbox .vcenter .smaller}
 
 https://projects.fivethirtyeight.com/2018-march-madness-predictions/
 
-<img src="images/MarchMadness538_2018.png" style="width: 500px;"/>
+<img src="images/MarchMadness538_2018.PNG" style="width: 500px;"/>
 
 ## FiveThirtyEight 2018 Data {.flexbox .vcenter .smaller}
 
 https://projects.fivethirtyeight.com/march-madness-api/2018/fivethirtyeight_ncaa_forecasts.csv
 
-<img src="images/MarchMadness_CSVlink.png" style="width: 500px;"/>
+<img src="images/MarchMadness_CSVlink.PNG" style="width: 500px;"/>
 
 # Code
 
@@ -291,7 +291,7 @@ dat[1:2, c(13, 10)]
 
 ## My Brother... and his family trip to Vegas {.flexbox .vcenter .smaller}
 
-<img src="images/TrevorConvo2.PNG" style="width: 250px;"/>
+<img src="images/TrevorConvo2.png" style="width: 250px;"/>
 
 ## 538's predictions on Monday, March 12th from Wednesday, March 14th
 
@@ -314,7 +314,7 @@ https://fivethirtyeight.com/features/how-our-march-madness-predictions-work/
 
 First:
 
-<img src="images/FiveThirtyEightmethodology.PNG" style="width: 500px;"/>
+<img src="images/FiveThirtyEightmethodology.png" style="width: 500px;"/>
 
 Then:
 
